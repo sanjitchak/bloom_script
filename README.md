@@ -1,0 +1,10 @@
+<script>
+
+	/* write your JavaScript code here */
+	window.onload = function(){  
+document.querySelector(".et_bloom_fields .et_bloom_custom_field").style.display= "block";
+		document.querySelector(".et_bloom_fields .et_bloom_custom_field input").placeholder = "Phone (Optional)";
+}  
+	
+
+</script>
